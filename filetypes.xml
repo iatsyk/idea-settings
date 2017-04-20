@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="csv" type="Cvs file" />
+      <mapping pattern="plan" type="PLAIN_TEXT" />
       <mapping pattern="spec" type="PLAIN_TEXT" />
       <mapping ext="file" type="PLAIN_TEXT" />
       <mapping ext="tar" type="PLAIN_TEXT" />
