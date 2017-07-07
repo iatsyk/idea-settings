@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project and Libraries" />
-    <option name="defaultScopeName" value="Project and Libraries" />
-    <option name="SEARCH_SCOPE" value="Project and Libraries" />
+    <option name="customScope" value="File '[engine] - .../engine/pom.xml'" />
+    <option name="defaultScopeName" value="File '[engine] - .../engine/pom.xml'" />
+    <option name="SEARCH_SCOPE" value="File '[engine] - .../engine/pom.xml'" />
   </component>
 </application>
