@@ -1,11 +1,11 @@
 <scheme name="custom" version="142" parent_scheme="Darcula">
   <option name="FONT_SCALE" value="1.25" />
   <metaInfo>
-    <property name="modified">2017-07-27T15:16:03</property>
+    <property name="modified">2017-07-27T16:42:29</property>
     <property name="rainbow Default language">true</property>
   </metaInfo>
   <option name="EDITOR_FONT_SIZE" value="16" />
-  <option name="EDITOR_FONT_NAME" value="Monospaced" />
+  <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
   <option name="EDITOR_LIGATURES" value="true" />
   <option name="CONSOLE_FONT_NAME" value="Source Code Pro" />
   <option name="CONSOLE_FONT_SIZE" value="14" />
