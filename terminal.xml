@@ -1,0 +1,6 @@
+<application>
+  <component name="TerminalOptionsProvider">
+    <option name="myShellPath" value="&quot;C:\programs\Git\bin\bash.exe&quot; -login -i" />
+    <option name="myTabName" value="Bash" />
+  </component>
+</application>
