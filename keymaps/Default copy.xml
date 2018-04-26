@@ -1,4 +1,4 @@
-<keymap version="1" name="Default for XWin copy" parent="Default for XWin">
+<keymap version="1" name="Default copy" parent="$default">
   <action id="ActivateDatabaseToolWindow">
     <keyboard-shortcut first-keystroke="alt 6" />
   </action>
