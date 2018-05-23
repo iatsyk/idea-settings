@@ -5,12 +5,13 @@
       <mapping pattern="node" type="PLAIN_TEXT" />
       <mapping pattern="plan" type="PLAIN_TEXT" />
       <mapping pattern="spec" type="PLAIN_TEXT" />
-      <mapping ext="tar" type="PLAIN_TEXT" />
+      <mapping pattern="volum.sql" type="PLAIN_TEXT" />
       <mapping ext="mmdb" type="PLAIN_TEXT" />
       <mapping ext="avi" type="PLAIN_TEXT" />
       <mapping ext="junk" type="PLAIN_TEXT" />
-      <mapping ext="file" type="PLAIN_TEXT" />
       <mapping ext="dat" type="PLAIN_TEXT" />
+      <mapping ext="tar" type="PLAIN_TEXT" />
+      <mapping ext="file" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
